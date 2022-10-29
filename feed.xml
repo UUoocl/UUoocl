@@ -3,29 +3,35 @@
     <title>UUoocl 🪵</title>
     <link href="https://UUoocl.github.io/feed.xml" rel="self" />
     <link href="https://UUoocl.github.io" />
-    <updated>2022-10-03T17:46:04-04:00</updated>
+    <updated>2022-10-29T16:30:40-04:00</updated>
     <author>
         <name>Jonathan</name>
     </author>
     <id>https://UUoocl.github.io</id>
 
     <entry>
-        <title>Post 1</title>
+        <title>Make a Family Tree Fan Chart</title>
         <author>
             <name>Jonathan</name>
         </author>
         <link href="https://UUoocl.github.io/post-1.html"/>
         <id>https://UUoocl.github.io/post-1.html</id>
 
-        <updated>2022-10-03T17:46:04-04:00</updated>
+        <updated>2022-10-29T16:30:40-04:00</updated>
             <summary>
                 <![CDATA[
-                    #Hello
+                    Here is a new Family Tree Chart. Make a copy of the Google sheet Photo Famly Tree with Fan Chart template and start a new family tree. If you already have a copy the previous Photo Family tree template, then it may be easier to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>#Hello</p>
+                <p>Here is a new Family Tree Chart. Make a copy of the <a href="https://docs.google.com/spreadsheets/d/1c7niicz6SytnLpoOyrmLOtaSqAg9d2UyZgxxzZUOX7M/copy">Google sheet Photo Famly Tree with Fan Chart template</a> and start a new family tree.  If you already have a copy the previous Photo Family tree template, then it may be easier to add the Fan Chart sheet.  </p>
+<p>This chart shows the ancestors of a single person in your family tree.  The chart looks like this, 
+<figure class="post__image"><img loading="lazy" src="https://UUoocl.github.io/media/posts/1/FanChart_Template_Example.jpg" sizes="100vw" srcset="https://UUoocl.github.io/media/posts/1/responsive/FanChart_Template_Example-xs.jpg 300w ,https://UUoocl.github.io/media/posts/1/responsive/FanChart_Template_Example-sm.jpg 480w ,https://UUoocl.github.io/media/posts/1/responsive/FanChart_Template_Example-md.jpg 768w ,https://UUoocl.github.io/media/posts/1/responsive/FanChart_Template_Example-lg.jpg 1024w ,https://UUoocl.github.io/media/posts/1/responsive/FanChart_Template_Example-xl.jpg 1360w ,https://UUoocl.github.io/media/posts/1/responsive/FanChart_Template_Example-2xl.jpg 1600w"  alt="Image description" width="1407" height="912" /></figure></p>
+<p>and can be customized.  Here is an example. Water colors. 
+<figure class="post__image"><img loading="lazy" src="https://UUoocl.github.io/media/posts/1/FanChart_Template_WaterColor_Example-2.jpg" sizes="100vw" srcset="https://UUoocl.github.io/media/posts/1/responsive/FanChart_Template_WaterColor_Example-2-xs.jpg 300w ,https://UUoocl.github.io/media/posts/1/responsive/FanChart_Template_WaterColor_Example-2-sm.jpg 480w ,https://UUoocl.github.io/media/posts/1/responsive/FanChart_Template_WaterColor_Example-2-md.jpg 768w ,https://UUoocl.github.io/media/posts/1/responsive/FanChart_Template_WaterColor_Example-2-lg.jpg 1024w ,https://UUoocl.github.io/media/posts/1/responsive/FanChart_Template_WaterColor_Example-2-xl.jpg 1360w ,https://UUoocl.github.io/media/posts/1/responsive/FanChart_Template_WaterColor_Example-2-2xl.jpg 1600w"  alt="Image description" width="1625" height="965" /></figure>
+To create the chart you’ll need Inkscape and an extension Next Generator.  Both are free!</p>
+<p>Follow along</p>
 
             ]]>
         </content>
