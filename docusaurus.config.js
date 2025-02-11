@@ -10,9 +10,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'UUoocl Documentation',
+  tagline: 'Do all the things',
+  favicon: 'img/faviconUUoocl.ico',
 
   // Set the production url of your site here
   url: 'https://uuoocl.github.io',
@@ -37,6 +37,18 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+
+    themeConfig: {
+      mermaid: {
+        theme: {light: 'neutral', dark: 'forest'},
+      },
+    },
+  
 
   presets: [
     [
